@@ -1,0 +1,20 @@
+body {
+    background: url(assets/images/backart.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: #cccccc;
+  }
+
+.stage {
+  color: rgb(101, 101, 255);
+  width: 55%;
+  margin: auto;
+  font-family: cursive;
+  }
+
+hr{
+    height: 2px;
+    background-color: rgba(204, 204, 204, 0.568);
+    border: none;
+}
